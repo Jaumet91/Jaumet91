@@ -1,4 +1,4 @@
-### 👋 Hey everyone, I'm Jaime Cortes a Full Stack developer
+## 👋 Hey everyone, I'm Jaime Cortes a Full Stack developer
 
 <!--
 **Jaumet91/Jaumet91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,13 @@ I'm a electronic engineer specializing in building exceptional digital experienc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35" height="35" />
 
 </p>
+
+### Let's connect:
+<a href="https://www.linkedin.com/in/jaimecortes91" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</img>
+<a href="https://twitter.com/jaimecortesdev" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />          
+</img>
+
+          
