@@ -4,7 +4,7 @@
 **Jaumet91/Jaumet91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a electronic engineer specializing in building exceptional digital experiences. I've entered the world of web development in April 2022, taken a deep interest in making websites the best they can be for everyone using them. I'm actually focussing in learn MERN Stack and Tailwind CSS but I've been fun with lots of Languages & Tools:
+I'm an electronic engineer specializing in building exceptional digital experiences. I've entered the world of web development in April 2022, taken a deep interest in making websites the best they can be for everyone using them. I'm actually focusing in learning MERN Stack and Tailwind CSS but I've been having fun with lots of Languages & Tools:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
