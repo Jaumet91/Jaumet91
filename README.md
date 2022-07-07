@@ -27,10 +27,10 @@ I'm a electronic engineer specializing in building exceptional digital experienc
 </p>
 
 ### Let's connect:
-<a href="https://www.linkedin.com/in/jaimecortes91" target="blank">
+<a href="https://www.linkedin.com/in/jaimecortes91" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="35"/>
 </img>
-<a href="https://twitter.com/jaimecortesdev" target="blank">
+<a href="https://twitter.com/jaimecortesdev" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="35"/>          
 </img>
 
